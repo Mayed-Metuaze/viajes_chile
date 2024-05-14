@@ -17,3 +17,17 @@ font-size:x-large}
 
 .col-sm-4{padding: 3%;
 margin-bottom: 5%;}
+
+.destacados{background-color: black;
+color: white;}
+
+.titulo2{text-align: center;}
+
+.card{margin-left: 10%;
+    background-color: aqua;
+    color:antiquewhite;
+    margin-bottom: 20%;
+    display: inline-flex
+}
+
+.titulo3{text-align: center;}
