@@ -27,7 +27,7 @@ color: white;}
     background-color: skyblue;
     color:antiquewhite;
     margin-bottom: 20%;
-    display: inline-flex
+    display: flex;
 }
 
 .contacto{background-color: black;
