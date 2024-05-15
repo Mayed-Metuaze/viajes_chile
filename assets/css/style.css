@@ -11,7 +11,7 @@ color:white;
 .somos h2{margin-bottom: 3%;
 padding-top: 1%;}
 
-.somos i{background-color: aqua;
+.somos i{background-color: skyblue;
 width: 100%;
 font-size:x-large}
 
@@ -24,7 +24,7 @@ color: white;}
 .titulo2{text-align: center;}
 
 .card{margin-left: 10%;
-    background-color: aqua;
+    background-color: skyblue;
     color:antiquewhite;
     margin-bottom: 20%;
     display: inline-flex
@@ -37,10 +37,11 @@ color: white;}
 
 .titulo3{text-align: center;}
 
-.bttn{background-color: aqua;
+.bttn{background-color: skyblue;
 margin: 3%;}
 
-footer{background-color: aqua;
-color: white;}
+footer{background-color: skyblue;
+color: white;
+padding-top: 1%;}
 
 .col-md-6{text-align: center;}
