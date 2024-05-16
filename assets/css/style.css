@@ -56,3 +56,6 @@ padding-top: 1%;}
 .col-md-6{text-align: center;}
 
 .row{justify-content: center;}
+
+footer a{text-decoration-style: none;
+color: white;}
